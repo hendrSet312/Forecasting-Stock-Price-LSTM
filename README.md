@@ -1,9 +1,10 @@
 # Forecasting-Stock-Price-LSTM
+
 A case study analyzing and predicting AMD and Apple stock prices from Yahoo Finance data until April 1st 2020 with the LSTM model. 
 
 ## Project Steps 
 1. **Exploratory Data Analysis**
-   Exploring trends and anomalies on both AMD and Apple stock prices data
+   - Exploring trends and anomalies on both AMD and Apple stock prices data
 3. **Data Preprocessing**
    - Changing date columns datatype 
    - Splitting data into train (80%), validation (10%), test (10%)
@@ -25,4 +26,4 @@ A case study analyzing and predicting AMD and Apple stock prices from Yahoo Fina
 5. **Model Evaluation**
    - Comparing model performance by MAE, RMSE and MAPE metrics
 6. **Model Deployment**
-   Exporting built models into .keras format
+   - Exporting built models into .keras format
