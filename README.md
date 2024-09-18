@@ -2,6 +2,11 @@
 
 A case study analyzing and predicting AMD and Apple stock prices from Yahoo Finance data until April 1st 2020 with the LSTM model. 
 
+## Used Library:
+1. ETL & Data Manipulation : Numpy, pandas
+2. Data Visualization : Seaborn, matplotlib
+3. Machine Learning : Tensorflow, keras , optuna (for hyperparameter tuning) 
+
 ## Project Steps 
 1. **Exploratory Data Analysis**
    - Exploring trends and anomalies on both AMD and Apple stock prices data
